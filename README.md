@@ -15,41 +15,33 @@
 
 ---
 
-## 🛠️ What I Work With
+## What I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mongodb,express,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mongodb,express,html,css,mysql&theme=dark" />
 </p>
 
 ```
-Languages     →  Python · Java · JavaScript
-Stack         →  MERN (MongoDB, Express, React, Node.js)
-AI / ML       →  Machine Learning · Deep Learning · Quantum Computing
-Fundamentals  →  DSA in Python · REST APIs · HTML & CSS
-CRM           →  Salesforce (Trailhead certified)
+Languages       →  Python · Java · JavaScript
+Stack           →  MERN (MongoDB, Express, React, Node.js)
+AI / ML         →  Machine Learning · Deep Learning · Quantum Computing
+DSA & APIs      →  DSA in Python · REST APIs
+Web             →  HTML · CSS
+Databases       →  MySQL · MongoDB
+Core CS         →  Operating Systems · Computer Networks
+CRM             →  Salesforce (Trailhead)
 ```
 
 ---
 
-## 🚀 Experience
+## Experience
 
-**🛰️ ML Intern — ISRO NRSC**
+**ML Intern — ISRO NRSC**
 > Applied Machine Learning on real satellite data at India's national remote sensing centre.
 
 ---
 
-## 🌌 Projects
-
-| Project | What it does |
-|---------|-------------|
-| [🌾 GramSeva](https://github.com/anjaniballaa/gramseva) | AI-powered rural healthcare & agriculture app for Bharat |
-| [🌌 Interstellar Orrery](https://anjaniballaa.github.io/dynamic-orrery/) | Real-time 3D solar system — art meets space tech |
-| [🤖 AI Lead Qualifier](https://github.com/anjaniballaa/ai-lead-qualifier) | Groq + Salesforce CRM lead scoring system |
-| [💹 FinSight AI](https://github.com/anjaniballaa/finsight-ai) | Mutual fund advisor powered by real math, not guesses |
-
----
-
-## 📬 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:anjaniballaa@gmail.com"><img src="https://img.shields.io/badge/Email-anjaniballaa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
