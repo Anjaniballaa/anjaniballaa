@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  Third-year Computer Science student at <strong>Shri Vishnu Engineering College for Women</strong> —<br/>
+  Computer Science student at <strong>Shri Vishnu Engineering College for Women</strong> —<br/>
   building things that matter, from rural India's healthcare to the cosmos.
 </p>
 
